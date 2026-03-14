@@ -30,10 +30,10 @@
 
 ```javascript
 const developer = {
-  name:        "Your Name",
+  name:        "Anand kumar Pandey",
   role:        "Full Stack Developer",
   location:    "India 🇮🇳",
-  experience:  "X+ Years",
+  experience:  "1+ Years",
   
   currentlyWorking: "Building awesome web apps",
   currentlyLearning: ["System Design", "DevOps", "AI/ML Integration"],
@@ -268,11 +268,10 @@ Cloud (AWS/GCP)             ████████████░░░░░�
 
 | Platform | Link |
 |----------|------|
-| 💼 **LinkedIn** | [linkedin.com/in/yourprofile](https://linkedin.com) |
-| 🐦 **Twitter / X** | [@yourhandle](https://twitter.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anand-kumar-pandey-364a73351/) |
 | 🌐 **Portfolio** | [yourportfolio.com](https://yourportfolio.com) |
-| 📧 **Email** | your@email.com |
-| 💻 **GitHub** | [github.com/yourusername](https://github.com) |
+| 📧 **Email** | pandeyanand200123@gmail.com |
+| 💻 **GitHub** | [github.com/yourusername](https://github.com/pandeyanand200) |
 
 </div>
 
