@@ -9,7 +9,7 @@
 ╚═╝      ╚═════╝ ╚══════╝╚══════╝    ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 ```
 
-# 🚀 Full Stack Developer
+# 🚀 Full Stack Developer.
 
 ### *Building scalable web applications from frontend to backend*
 
